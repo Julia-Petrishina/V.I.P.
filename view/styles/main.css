@@ -1,0 +1,6 @@
+.collapse > ul > li:hover{
+    text-decoration: underline;
+}
+.collapse > ul > li:active{
+    color: red;
+}
